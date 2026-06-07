@@ -44,11 +44,11 @@ This guide focuses on student experiences with computer science courses and prof
      numbers fit the structure of your documents.
      A review-heavy corpus warrants different chunking than a long FAQ. -->
 
-**Chunk size:**
+**Chunk size: 300–500 characters**
 
-**Overlap:**
+**Overlap: 50–100 characters**
 
-**Reasoning:**
+**Reasoning: The dataset contains mostly short student reviews (1–3 sentences). This chunk size keeps each piece focused on a single idea like workload or teaching style. Overlap helps preserve context when a review spans multiple sentences or when key details fall near boundaries. This balance avoids overly fragmented chunks while maintaining good retrieval precision.**
 
 ---
 
@@ -60,11 +60,11 @@ This guide focuses on student experiences with computer science courses and prof
      would you weigh in choosing a different embedding model — context length, multilingual
      support, accuracy on domain-specific text, latency? -->
 
-**Embedding model:**
+**Embedding model: all-MiniLM-L6-v2**
 
-**Top-k:**
+**Top-k: 5**
 
-**Production tradeoff reflection:**
+**Production tradeoff reflection: It's not about keyword matching, it's about understanding the meaning.**
 
 ---
 
@@ -91,9 +91,9 @@ This guide focuses on student experiences with computer science courses and prof
      Consider: noisy or inconsistent documents, missing source attribution, off-topic
      retrieval, chunks that split key information across boundaries. -->
 
-1.
+1.Off-topic retrieval：Queries about one course may retrieve reviews mentioning a different course if similar terms appear in both documents.
 
-2.
+2.Noisy and inconsistent reviews：Student reviews may be subjective, biased, or contradictory. Different students can have very different experiences with the same professor or course.
 
 ---
 
@@ -104,6 +104,8 @@ This guide focuses on student experiences with computer science courses and prof
      Label each stage with the tool or library you're using.
      You can use ASCII art, a Mermaid diagram, or embed a sketch as an image.
      You'll use this diagram as context when prompting AI tools to implement each stage. -->
+
+<img src="mermaid-diagram.png" alt="text" style="max-width: 100%; height: auto;">
 
 ---
 
@@ -119,8 +121,8 @@ This guide focuses on student experiences with computer science courses and prof
      "I'll give Claude my Chunking Strategy section and ask it to implement chunk_text()
      with my specified chunk size and overlap" is a plan. -->
 
-**Milestone 3 — Ingestion and chunking:**
+**Milestone 3 — Ingestion and chunking: I will use ChatGPT and GitHub Copilot to process raw text from collected sources, clean the data, and implement a chunking pipeline that splits documents into structured chunks while preserving context.**
 
-**Milestone 4 — Embedding and retrieval:**
+**Milestone 4 — Embedding and retrieval:I will use ChatGPT for design guidance and Copilot for implementation to build an embedding system and vector database that supports semantic search and a retrieve function.**
 
-**Milestone 5 — Generation and interface:**
+**Milestone 5 — Generation and interface:I will use ChatGPT or Claude to generate responses based on retrieved context and ensure the system produces grounded, accurate answers without hallucinations.**
