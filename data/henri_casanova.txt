@@ -21,11 +21,7 @@ Textbook: N/A
 is Fronchman
 Amazing lectures
 Hilarious
-Helpful
-Thumbs up
-0
-Thumbs down
-0
+
 
 
 Quality
@@ -37,11 +33,7 @@ Apr 5th, 2026
 Would Take Again: Yes
 Grade: Not sure yet
 one of the best professors in the department his classes are not too hard or easy which is perfect for most students
-Helpful
-Thumbs up
-0
-Thumbs down
-0
+
 
 Quality
 5.0
@@ -52,11 +44,7 @@ Mar 9th, 2026
 Would Take Again: Yes
 Grade: A+
 best professor in the department
-Helpful
-Thumbs up
-0
-Thumbs down
-0
+
 
 
 Quality
@@ -74,11 +62,6 @@ Dudes the goat, I'm taking him for 332 and 312 rn. Exceptional, highly knowledge
 Amazing lectures
 Hilarious
 Test heavy
-Helpful
-Thumbs up
-0
-Thumbs down
-0
 
 Quality
 5.0
@@ -94,11 +77,7 @@ Hard class with a lot of exams, but he made concepts very easy to grasp. His sli
 Clear grading criteria
 Gives good feedback
 Respected
-Helpful
-Thumbs up
-0
-Thumbs down
-0
+
 
 
 Quality
@@ -114,11 +93,7 @@ Grade: A
 Textbook: N/A
 Hands down one of the best professors I've had at UH. Shows a clear passion for the subject he teaches and tries his best to explain things simply. Protect this man at all costs.
 Inspirational
-Helpful
-Thumbs up
-1
-Thumbs down
-0
+
 
 Quality
 5.0
@@ -135,11 +110,7 @@ Online Class: Yes
 take the hpc class
 Amazing lectures
 Clear grading criteria
-Helpful
-Thumbs up
-0
-Thumbs down
-0
+
 
 
 Quality
@@ -156,11 +127,7 @@ Dont get the raving reviews about him, hes just your average researcher 1st prof
 Graded by few things
 Test heavy
 EXTRA CREDIT
-Helpful
-Thumbs up
-0
-Thumbs down
-1
+
 
 Quality
 4.0
@@ -177,11 +144,7 @@ Casanova is a very thorough instructor. He provides a lot of information and som
 Clear grading criteria
 Lecture heavy
 EXTRA CREDIT
-Helpful
-Thumbs up
-0
-Thumbs down
-0
+
 
 
 Quality
@@ -199,11 +162,7 @@ Henri is one of the smartest and most knowledgeable people I have met. He makes 
 Respected
 Hilarious
 Amazing lectures
-Helpful
-Thumbs up
-0
-Thumbs down
-0
+
 
 Quality
 5.0
@@ -220,11 +179,6 @@ He is one of the best teachers at UHM. I wish he taught every single class.
 Gives good feedback
 Respected
 Amazing lectures
-Helpful
-Thumbs up
-1
-Thumbs down
-0
 
 
 Quality
@@ -240,11 +194,7 @@ Grade: B
 Textbook: No
 one of the best teachers at uhm's ics program, would recommend for any class
 Respected
-Helpful
-Thumbs up
-1
-Thumbs down
-0
+
 
 Quality
 5.0
@@ -258,11 +208,7 @@ Would Take Again: Yes
 Grade: B+
 Textbook: No
 Definitely one of the best ICS Professors ever! Assembly code might look intimidating at first, but the way he explains and breaks down the material for students to understand is phenomenal. His PowerPoints are detailed and are helpful resources towards his assignments and tests. He is organized, amusing, and very prompt in responding to emails.
-Helpful
-Thumbs up
-1
-Thumbs down
-0
+
 
 
 Quality
@@ -276,11 +222,7 @@ Attendance: Not Mandatory
 Grade: B
 Textbook: No
 Casanova was hands down my favorite ICS teacher to date! Take him if you get the chance! I can't wait to take ICS 312 with him next semester!
-Helpful
-Thumbs up
-4
-Thumbs down
-1
+
 
 Quality
 5.0
@@ -291,11 +233,7 @@ Mar 28th, 2015
 For Credit: Yes
 Textbook: No
 Very Good Prof. The best Professor ever! He is reallllllly Smart!!!!
-Helpful
-Thumbs up
-2
-Thumbs down
-1
+
 
 
 Quality
@@ -308,11 +246,7 @@ Attendance: Mandatory
 Grade: B+
 Textbook: Yes
 1 of the best ics professors. Awesome professor; he's super funny & helpful. Lectures are interesting, detailed, & easy to understand (I rarely had to read the textbook). He uses simple analogies to explain abstract materials. Programming hws are hard -- DON'T start late. There are extra credits on hws & exams. Take any of his classes.
-Helpful
-Thumbs up
-3
-Thumbs down
-0
+
 
 Quality
 5.0
@@ -322,11 +256,7 @@ ICS332
 Apr 28th, 2014
 Textbook: Yes
 It is a super funny class, even though the programming assignment have a little hard. But If you can put the time on it, you still can get the full credit and you can learn the course's knowledge on the assignment. The assignment is really relate to the course, and the teacher is super nice and interesting. I love this DR.
-Helpful
-Thumbs up
-1
-Thumbs down
-0
+
 
 
 Quality
@@ -337,11 +267,7 @@ ICS312
 Mar 13th, 2014
 Textbook: No
 Wish he taught all my CS classes..
-Helpful
-Thumbs up
-2
-Thumbs down
-0
+
 
 Quality
 5.0
@@ -351,11 +277,7 @@ ICS312
 Jun 7th, 2011
 Textbook: Yes
 Hands down one of the best ICS Professors I've ever come across. He takes the time to explain things, genuinely cares about the students, and still clearly has a passion for the course material, as this resonates through the students. A GREAT Prof with a good sense of humor!
-Helpful
-Thumbs up
-3
-Thumbs down
-0
+
 
 
 Quality
@@ -366,11 +288,7 @@ ICS312
 May 14th, 2010
 Textbook: No
 Useful, challenging homework, lectures you want/need to hear, free online texts. What more do you want in a professor? A BADASS name? Casanova(which I assume means new house) not badass enough for you? Well, there's just no pleasing you, is there?
-Helpful
-Thumbs up
-1
-Thumbs down
-8
+
 
 Quality
 5.0
@@ -380,11 +298,7 @@ ICS312
 May 8th, 2009
 Textbook: Yes
 Very good teacher. Extremely helpful and quick with answering emails.
-Helpful
-Thumbs up
-1
-Thumbs down
-0
+
 
 
 Quality
@@ -395,11 +309,7 @@ ICS312
 Apr 1st, 2009
 Textbook: No
 Excellent teacher. Notes are extremely straightforward and understandable. Quizzes and tests are fair, as is homework. Should you understand the homework then the class is really easy (and fun!). He's really helpful and prompt with emails. Even better: the book is free online (although his slides make the class extremely easy)
-Helpful
-Thumbs up
-1
-Thumbs down
-0
+
 
 Quality
 5.0
@@ -409,8 +319,4 @@ ICS312
 Dec 7th, 2007
 Textbook: No
 Great professor. Takes the time to explain the material really well. Corrects mistakes in slides immediately and makes them available online. His teaching style really works to make the class fun and not stale. Given that this class was on assembly, I'd say that's a good job!
-Helpful
-Thumbs up
-1
-Thumbs down
-0
+

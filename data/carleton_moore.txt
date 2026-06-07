@@ -20,11 +20,7 @@ Grade: A-
 Textbook: Yes
 Very knowledgeable, to the point where some of the more basic stuff he has a hard time explaining, but he also lets you use AI for everything if you credit it, so as long as you study some for the exams, you will be fine. I actually found the course pretty enjoyable towards the back half once I got the hang of it. I think he is retiring though :/
 Online Savvy
-Helpful
-Thumbs up
-0
-Thumbs down
-0
+
 
 
 Quality
@@ -41,11 +37,7 @@ Textbook: N/A
 Lots of assignments (but not very substantial, and TAs may have blindly graded it after a while) and weekly "WODs" (equivalent of quizzes) in-class. Hard if you don't know web development, otherwise a super easy class, just time consuming. A.I. was allowed and encouraged by the professors. Unsure about extra credit, not many opportunities.
 Lots of homework
 Test heavy
-Helpful
-Thumbs up
-0
-Thumbs down
-0
+
 
 Quality
 4.0
@@ -62,11 +54,7 @@ Honestly, lecture periods were structured around quizzes and leaving, Dr. Moore 
 Participation matters
 EXTRA CREDIT
 Accessible outside class
-Helpful
-Thumbs up
-0
-Thumbs down
-0
+
 
 
 Quality
@@ -82,11 +70,7 @@ This class was flipped. He did not teach in lecture, he provided videos and text
 Tough grader
 Get ready to read
 Lots of homework
-Helpful
-Thumbs up
-0
-Thumbs down
-0
+
 
 Quality
 1.0
@@ -101,11 +85,7 @@ There are quizzes every single lecture, but no real teaching. He expects student
 Tough grader
 Get ready to read
 Beware of pop quizzes
-Helpful
-Thumbs up
-0
-Thumbs down
-0
+
 
 
 Quality
@@ -123,11 +103,7 @@ Was a great professor
 EXTRA CREDIT
 Group projects
 Inspirational
-Helpful
-Thumbs up
-0
-Thumbs down
-0
+
 
 Quality
 2.0
@@ -143,11 +119,7 @@ This class was lecture heavy, but make that online lecture heavy. He teaches usi
 Get ready to read
 Lecture heavy
 Online Savvy
-Helpful
-Thumbs up
-0
-Thumbs down
-0
+
 
 
 Quality
@@ -164,11 +136,7 @@ I didn't love or hate this class. It used a flipped classroom format so you lear
 Get ready to read
 Participation matters
 Beware of pop quizzes
-Helpful
-Thumbs up
-0
-Thumbs down
-0
+
 
 Quality
 5.0
@@ -185,11 +153,7 @@ Honestly one of the better ICS professors I had here at Manoa. In the first thir
 EXTRA CREDIT
 Group projects
 Lots of homework
-Helpful
-Thumbs up
-0
-Thumbs down
-0
+
 
 
 Quality
@@ -206,11 +170,7 @@ Professor Moore is great! Most of his class time is spent doing actual coding an
 Group projects
 Lots of homework
 Accessible outside class
-Helpful
-Thumbs up
-0
-Thumbs down
-0
+
 
 Quality
 3.0
@@ -226,11 +186,6 @@ Textbook: Yes
 Honestly I did not like the structure of this class. You basically watch the lectures and read the textbook by yourself and come in to do these 10 mins quizzes every lecture period. It was quite hard for me to grasp topics and needed to replay the lecture often but he was very good at explaining and answering question in-person.
 Participation matters
 Gives good feedback
-Helpful
-Thumbs up
-0
-Thumbs down
-0
 
 
 Quality
@@ -247,11 +202,7 @@ Textbook: Yes
 Probably the easiest class I've taken, but I didn't learn squat. multiple choice finals, and TAs matter in this class.
 Accessible outside class
 Online Savvy
-Helpful
-Thumbs up
-0
-Thumbs down
-0
+
 
 Quality
 3.0
@@ -267,11 +218,8 @@ Textbook: N/A
 Professor is alright, but as others mentioned, the course is done solely through videos and web-tutorials with the exception of in-class timed coding assignments. Tons of tedious homework due about 4/7 days of the week. However, tons of extra credit opportunities making it impossible to fail. Learn React & JS prior to taking.
 EXTRA CREDIT
 Lots of homework
-Helpful
-Thumbs up
-0
-Thumbs down
-0
+
+
 
 
 Quality
@@ -288,11 +236,7 @@ Textbook: Yes
 Every class has a quiz on what you should have gone over before class. Success in class is massively helped/hindered by the quality of your TA in lab. I actually liked the online textbook, it explained things well. Wish there was more examples in class that weren't just using textbook examples over again. I felt like I was scrambling a lot. DO EC!
 EXTRA CREDIT
 Clear grading criteria
-Helpful
-Thumbs up
-1
-Thumbs down
-0
+
 
 Quality
 3.0
@@ -306,11 +250,8 @@ Would Take Again: Yes
 Grade: B+
 Textbook: N/A
 Issues are more with 314 than the professor. He was decently accessible outside of class and course was clearly laid out. The course is just lazily done and does not teach many real software eng skills. All-or-nothing grading is also odd with the weekly tasks where they are easy but timed, and if you mess up on a few your grade drops significantly.
-Helpful
-Thumbs up
-0
-Thumbs down
-0
+
+
 
 
 Quality
@@ -325,11 +266,7 @@ Grade: B+
 Textbook: N/A
 Most useless class in the department. The course content is created by Professors Moore and Johnson, no matter what section. They give you freecodecamp for html and javascript, and that's about all you will ever be taught. Then you take a template and change some variables over & over. You learn to use templates and libraries, not develop software.
 So many papers
-Helpful
-Thumbs up
-0
-Thumbs down
-0
+
 
 Quality
 1.0
@@ -342,11 +279,7 @@ Attendance: Mandatory
 Grade: A+
 Textbook: N/A
 Flipped classroom model is lazy, and the lecture videos are outdated. In-class coding practices are fairly easy but are very harshly credit/no credit with no ability to redo.
-Helpful
-Thumbs up
-1
-Thumbs down
-0
+
 
 
 Quality
@@ -361,11 +294,7 @@ Would Take Again: Yes
 Grade: A-
 Textbook: N/A
 A little more difficult than ICS 111, and having peers collaborating on homework together made things much easier. Flipped format of lectures where the student watches the lecture videos and this would prepare you for the quiz on Wednesdays and homework on Friday. Recommend making friends in the class so they can help you with you get stuck! :)
-Helpful
-Thumbs up
-0
-Thumbs down
-0
+
 
 Quality
 4.0
@@ -380,11 +309,6 @@ Grade: A+
 Textbook: N/A
 Online Class: Yes
 Easy class. Just need to do weekly homework on time, and a quiz every Wednesday. Flipped style of teaching where you would watch the lecture videos before attending class and completing the quiz and homework.
-Helpful
-Thumbs up
-0
-Thumbs down
-0
 
 
 Quality
@@ -402,11 +326,7 @@ Lectures really only have one reason to exist, and that's for the quizzes. His v
 Get ready to read
 Clear grading criteria
 Beware of pop quizzes
-Helpful
-Thumbs up
-0
-Thumbs down
-0
+
 
 Quality
 4.0
@@ -422,11 +342,7 @@ Textbook: Yes
 This class' material was hard and he helps with homework on Wednesdays, but homework is due Friday so you only really have 2 days to try your hardest to figure out the code from his pseudocode. However, he is very lenient when it comes to grading, TA's grade homework, professor grades quizzes and tests.
 Get ready to read
 Clear grading criteria
-Helpful
-Thumbs up
-1
-Thumbs down
-0
+
 
 
 Quality
@@ -444,11 +360,6 @@ Online Class: Yes
 He is straightforward. The TA's grade your homework. It's kind of hard to guess what is going to be on the homework unless you study and read everything. Grades are lenient. We only have one exam because he didn't like exams online, and we stopped quizzes halfway through. Going to lab is mandatory and you get a grade which is like extra credit.
 Get ready to read
 Lots of homework
-Helpful
-Thumbs up
-1
-Thumbs down
-0
 
 Quality
 1.0
@@ -464,11 +375,7 @@ This class is a "flipped classroom" which means just watch youtube videos and re
 Lots of homework
 Accessible outside class
 Get ready to read
-Helpful
-Thumbs up
-1
-Thumbs down
-0
+
 
 
 Quality
@@ -486,11 +393,7 @@ There's a quiz every week, plus two midterms and there's not enough time to comp
 Lots of homework
 Test heavy
 Tough grader
-Helpful
-Thumbs up
-1
-Thumbs down
-0
+
 
 Quality
 2.0
@@ -505,11 +408,7 @@ Textbook: Yes
 Online Class: Yes
 If you are unprepared for quizzes, you will not pass them as you're barely given enough time to finish them. Spends each lecture talking about what to do for the assignment, learning must be done on your own time. If you don't feel comfortable participating in labs, or have friends to ask for help, don't take this class.
 Skip class? You won't pass.
-Helpful
-Thumbs up
-1
-Thumbs down
-0
+
 
 
 Quality
@@ -527,11 +426,7 @@ Moore's class is flipped, so you have lectures online and quizzes in class. Some
 Lots of homework
 Skip class? You won't pass.
 Clear grading criteria
-Helpful
-Thumbs up
-1
-Thumbs down
-0
+
 
 Quality
 5.0
@@ -545,11 +440,7 @@ Would Take Again: Yes
 Textbook: Yes
 Cam Moore has a talent for explaining concepts quickly and simply, in ways that are easy to absorb and understand. He also is quite helpful, and you can tell he cares that people actually understand the homework.
 ACCESSIBLE OUTSIDE CLASS
-Helpful
-Thumbs up
-1
-Thumbs down
-0
+
 
 
 Quality
@@ -567,11 +458,7 @@ Dr. Moore uses a "flipped classroom" to teach his content, which I'm not particu
 Gives good feedback
 LOTS OF HOMEWORK
 Would take again
-Helpful
-Thumbs up
-4
-Thumbs down
-0
+
 
 Quality
 3.0
@@ -588,11 +475,7 @@ Very boring class. The only thing you do is go over data structures. It is very 
 Tough Grader
 LOTS OF HOMEWORK
 Caring
-Helpful
-Thumbs up
-0
-Thumbs down
-2
+
 
 
 Quality
@@ -610,11 +493,7 @@ Need a B to pass the class but he's cool because he doesn't do +/-. He's very kn
 Skip class? You won't pass.
 LOTS OF HOMEWORK
 BEWARE OF POP QUIZZES
-Helpful
-Thumbs up
-6
-Thumbs down
-0
+
 
 Quality
 3.0
@@ -628,11 +507,6 @@ Textbook: Yes
 He's a pretty cool guy, but I don't like that he doesn't lecture (he does screencasts) and that he expects us to memorize a lot of different codes for our daily quizzes/midterm/final. Overall, if you're good at memorization, then you'll probably do well. If not, study the screencast/textbook codes well. Also, don't let the homework freak you out.
 Skip class? You won't pass.
 LOTS OF HOMEWORK
-Helpful
-Thumbs up
-1
-Thumbs down
-0
 
 
 Quality
@@ -649,11 +523,7 @@ The only thing I don't like about this class is that instead of lecturing during
 Gives good feedback
 Skip class? You won't pass.
 Clear grading criteria
-Helpful
-Thumbs up
-1
-Thumbs down
-0
+
 
 Quality
 4.0
@@ -669,11 +539,7 @@ Textbook: Yes
 This is my second time taking a class taught by Dr. Moore and he is awesome. Gives a quiz in the beginning of all lectures that can usually be found online ahead of time AND all his lectures are online. He explains things very clearly and made the material easy to understand. Furthermore, his exams are hella easy :)
 Clear grading criteria
 Hilarious
-Helpful
-Thumbs up
-2
-Thumbs down
-1
+
 
 
 Quality
@@ -686,11 +552,7 @@ For Credit: Yes
 Grade: A
 Textbook: Yes
 Lecture videos, assignments, and even practice quizzes will be on his webpage. If you look carefully you will know exactly what to study for the next quiz. Each class you attend starts with a quiz, followed by Q&A. You will have to MEMORIZE codes as the tests and quizzes will be to write codes on paper. Lab is where you will be coding, must attend
-Helpful
-Thumbs up
-3
-Thumbs down
-0
+
 
 Quality
 2.0
@@ -702,11 +564,7 @@ For Credit: Yes
 Attendance: Not Mandatory
 Textbook: No
 Recently started using a "MOREA" framework for his 415 class which as far as I can tell just lets him tell you to go do online tutorials to learn instead of him actually teaching anything.
-Helpful
-Thumbs up
-2
-Thumbs down
-1
+
 
 
 Quality
@@ -718,11 +576,7 @@ May 25th, 2015
 For Credit: Yes
 Textbook: No
 good
-Helpful
-Thumbs up
-2
-Thumbs down
-0
+
 
 Quality
 3.0
@@ -735,11 +589,6 @@ Attendance: Mandatory
 Grade: A
 Textbook: Yes
 Easy A. Quizzes everyday are based off the book so buy the book. You don't have to read it, just look at the source code. His daily quizzes are great and good practice. Midterms are easy A. Projects are super easy to medium diff. Some can be done in a day and some in the week. Overall, he was a good and sarcastic professor. The TA's are decent.
-Helpful
-Thumbs up
-4
-Thumbs down
-0
 
 
 Quality
@@ -752,11 +601,7 @@ For Credit: Yes
 Grade: A
 Textbook: Yes
 Moore, at least in my experience with him (as he changes his teaching method each sem), was pretty good. Lectures are efficiently taught, and quizzes and homework enforce the material. As long as you study your code, read the book, and ask questions when you are stumped (Moore and TAs are always there), you can pass.
-Helpful
-Thumbs up
-3
-Thumbs down
-0
+
 
 Quality
 3.5
@@ -767,11 +612,7 @@ Nov 25th, 2014
 For Credit: Yes
 Textbook: Yes
 Attendance is mandatory because he will give out a mini-quiz every session to ensure that. The work load is manageable, but stay on top of it, because some of them are tough to do. Uses a screen cast for his lectures. He is willing to help if you ask, and the book surprisingly helps clarify things. The homework makes a huge part of the grade.
-Helpful
-Thumbs up
-4
-Thumbs down
-0
+
 
 
 Quality
@@ -782,11 +623,7 @@ ICS211
 May 24th, 2014
 Textbook: No
 He knows the content, but in terms of his contribution, all he does in lecture. The labs are where we actually write code, but I heard that will change next semester. The homework difficulty ranges from laughably easy to something that can legitimately take the full two weeks to complete. Only take if you're sure about this major.
-Helpful
-Thumbs up
-3
-Thumbs down
-0
+
 
 Quality
 1.0
@@ -797,8 +634,4 @@ May 7th, 2014
 Attendance: Mandatory
 Textbook: No
 His lectures were very pointless because he read off the slides, his demeanor when he lectured was somewhat arrogant (when he spoke, he made it seem like the material was impossible NOT to grasp), and assignments & schedule of assignments were HARD to keep up with. ALSO attendance quizzes were used and tests were actually not that bad.
-Helpful
-Thumbs up
-4
-Thumbs down
-4
+

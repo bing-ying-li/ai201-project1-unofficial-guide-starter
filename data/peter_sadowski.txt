@@ -21,11 +21,7 @@ Textbook: Yes
 Went over the elementary math needed to understand the foundations of ML/DL so was accessible to all backgrounds. Recorded the lectures which I found nice to go over for the midterm. Responds to questions and emails very fast. I learned a lot. All of the questions on the midterm were in the lectures or homework.
 Accessible outside class
 Online Savvy
-Helpful
-Thumbs up
-0
-Thumbs down
-0
+
 
 
 Quality
@@ -40,11 +36,7 @@ Would Take Again: Yes
 Grade: A-
 Textbook: N/A
 I have a lot of respect for Sadowski. His class was difficult but when he saw students were struggling he actively sought out criticism and suggestions from the students to make his class better. He genuinely cares and wants all his students to succeed, if you make an effort in his class he will make an effort to help you.
-Helpful
-Thumbs up
-0
-Thumbs down
-0
+
 
 Quality
 1.0
@@ -57,11 +49,7 @@ Attendance: Not Mandatory
 Textbook: Yes
 While he is extremely knowledgeable about machine learning, he lacks basic empathy for students and often provides unhelpful answers to questions. I would never trust him to teach students I cared about.
 Tough grader
-Helpful
-Thumbs up
-0
-Thumbs down
-0
+
 
 
 Quality
@@ -78,11 +66,7 @@ Professor Sadowski is flexible with homework/quizzes if you explain your situati
 Tough grader
 Participation matters
 Lots of homework
-Helpful
-Thumbs up
-1
-Thumbs down
-0
+
 
 Quality
 2.0
@@ -94,11 +78,7 @@ Sadowski is knowledgeable and a good person. However, he's not great at teaching
 Tough grader
 Lots of homework
 Accessible outside class
-Helpful
-Thumbs up
-1
-Thumbs down
-0
+
 
 
 Quality
@@ -111,11 +91,7 @@ For Credit: Yes
 Attendance: Not Mandatory
 too involved with research to teach and barely knows the material himself. if have a choice/time take it from someone else
 Get ready to read
-Helpful
-Thumbs up
-1
-Thumbs down
-0
+
 
 Quality
 5.0
@@ -132,11 +108,7 @@ One of the best teachers I've had at UH. You can tell that he's always trying ha
 Tough grader
 Gives good feedback
 Accessible outside class
-Helpful
-Thumbs up
-0
-Thumbs down
-2
+
 
 Reviewed: Jan 5th, 2023
 
@@ -151,11 +123,7 @@ Attendance: Mandatory
 Would Take Again: Yes
 Textbook: Yes
 Dr. Sadowski is a great professor, he's extremely smart and if you can absorb some of his knowledge it will greatly help you in your future CS career. When taking Algorithms, you cannot half ass it. You either learn it or you should switch majors. If you are willing to work for a grade and truly learn the course material, you will do fine.
-Helpful
-Thumbs up
-1
-Thumbs down
-1
+
 
 Quality
 5.0
@@ -169,11 +137,6 @@ Would Take Again: Yes
 Grade: B
 Textbook: Yes
 Good Professor, cool guy. The class goes through material really fast, but he's knowledgeable and always willing to stop and explain anything if you ASK. His tests are difficult but fair. He gives out great test reviews prior to the exam! This is the hardest Computer Science class, that being said, you have to pay attention and do the work to pass!
-Helpful
-Thumbs up
-1
-Thumbs down
-1
 
 
 Quality
@@ -190,11 +153,7 @@ Professor Sadowski is unfit to be a teacher for this class. He was often condesc
 Tough grader
 Get ready to read
 Participation matters
-Helpful
-Thumbs up
-1
-Thumbs down
-0
+
 
 Quality
 1.0
@@ -210,11 +169,6 @@ Reverse classroom meaning he gives you screencasts and lectures (not even made b
 Tough grader
 Get ready to read
 Lots of homework
-Helpful
-Thumbs up
-3
-Thumbs down
-0
 
 
 Quality
@@ -230,11 +184,6 @@ Textbook: N/A
 Wasn't prepared for class, wasn't good at teaching. Barely lectured and even if he did, he wasn't prepared. Expect to teach yourself. CHANGED THE MIDTERM FROM AN ONLINE MULTIPLE CHOICE/SHORT ANSWER TEST TO A IN-PERSON WRITTEN/OPEN ENDED TEST TWO DAYS BEFORE THE MIDTERM. Was nice but could tell he's a grad student who doesn't have much experience.
 Tough grader
 Lots of homework
-Helpful
-Thumbs up
-3
-Thumbs down
-0
 
 Quality
 1.0
@@ -250,11 +199,6 @@ The worst professor i've dealt with at UH Manoa
 Inspirational
 Hilarious
 Caring
-Helpful
-Thumbs up
-3
-Thumbs down
-0
 
 
 Quality
@@ -269,11 +213,7 @@ Grade: C
 Textbook: Yes
 Professor Sadowski is a cool person, but it's very hard to learn in his class. He doesn't lecture, we watch lecture videos and reads notes that are hard to learn from. He expects you to know everything and makes exams and quizzes very difficult.
 Tough grader
-Helpful
-Thumbs up
-3
-Thumbs down
-0
+
 
 Quality
 1.0
@@ -287,11 +227,7 @@ Textbook: Yes
 Does not know how to do what he's "teaching." if you can even call it that.
 Tough grader
 Get ready to read
-Helpful
-Thumbs up
-3
-Thumbs down
-0
+
 
 
 Quality
@@ -308,11 +244,7 @@ not really teaching, only giving concepts and advice. He is the "Riddler" in the
 Tough grader
 Lots of homework
 Test heavy
-Helpful
-Thumbs up
-3
-Thumbs down
-0
+
 
 Quality
 1.0
@@ -328,11 +260,7 @@ hard homework, lots of hard quiz, and with a person who can't teach student
 Tough grader
 Lots of homework
 Hilarious
-Helpful
-Thumbs up
-3
-Thumbs down
-0
+
 
 
 Quality
@@ -348,11 +276,7 @@ Textbook: Yes
 Just don't take his courses.
 Lots of homework
 Hilarious
-Helpful
-Thumbs up
-3
-Thumbs down
-0
+
 
 Quality
 1.0
@@ -368,8 +292,4 @@ Doesn't teach, must read a diff professor's notes out of class. Doesn't explain 
 Tough grader
 Get ready to read
 Lots of homework
-Helpful
-Thumbs up
-3
-Thumbs down
-0
+
