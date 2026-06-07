@@ -11,6 +11,10 @@
 
 <!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
 
+Domain: University CS Professor and Course Reviews
+
+This guide focuses on student experiences with computer science courses and professors at the University of Hawaii. Information about teaching quality, workload, grading style, and course difficulty is often scattered across Rate My Professors, Reddit discussions, and unofficial student forums. Bringing these sources together makes it easier for students to make informed decisions when planning their schedules and selecting instructors.
+
 ---
 
 ## Documents
@@ -18,18 +22,18 @@
 <!-- List your specific sources: URLs, subreddit names, forum threads, or file descriptions.
      Aim for at least 10 sources that together cover different subtopics or perspectives within your domain. -->
 
-| # | Source | Description | URL or location |
-|---|--------|-------------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| #   | Source                               | Description                                      | URL or location                                                                                                                                                                                                        |
+| --- | ------------------------------------ | ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | UH ICS Department Homepage           | Official information about faculty and programs. | https://www.ics.hawaii.edu/                                                                                                                                                                                            |
+| 2   | UH ICS Course Catalog                | Official descriptions of ICS courses.            | https://catalog.manoa.hawaii.edu/content.php?catoid=4&navoid=949                                                                                                                                                       |
+| 3   | UH Computer Science Program          | Degree requirements and program overview.        | https://catalog.manoa.hawaii.edu/preview_program.php?catoid=4&poid=1687&returnto=1018                                                                                                                                  |
+| 4   | Rate My Professors – iCarleton Moore | Student reviews of Professor Carleton Moore      | https://www.ratemyprofessors.com/professor/1898989                                                                                                                                                                     |
+| 5   | Rate My Professors – Peter Sadowski  | Student reviews of Professor Peter Sadowski      | https://www.ratemyprofessors.com/professor/2639726                                                                                                                                                                     |
+| 6   | Rate My Professors – Depeng Li       | Student reviews of Professor Depeng Li           | https://www.ratemyprofessors.com/professor/1979395                                                                                                                                                                     |
+| 7   | Rate My Professors – Henri Casanova  | Student reviews of Professor Henri Casanova      | https://www.ratemyprofessors.com/professor/1070112                                                                                                                                                                     |
+| 8   | ICS 111 Course Information           | Introduction to Computer Science course.         | https://catalog.manoa.hawaii.edu/search_advanced.php?cur_cat_oid=4&search_database=Search&search_db=Search&cpage=1&ecpage=1&ppage=1&spage=1&tpage=1&location=33&filter%5Bkeyword%5D=ics+111&filter%5Bexact_match%5D=1  |
+| 9   | ICS 211 Course Information           | Data Structures course description.              | https://catalog.manoa.hawaii.edu/search_advanced.php?cur_cat_oid=4&search_database=Search&search_db=Search&cpage=1&ecpage=1&ppage=1&spage=1&tpage=1&location=33&filter%5Bkeyword%5D=ICS+211+&filter%5Bexact_match%5D=1 |
+| 10  | ICS 311 Course Information           | Algorithms course description and requirements.  | https://catalog.manoa.hawaii.edu/search_advanced.php?cur_cat_oid=4&search_database=Search&search_db=Search&cpage=1&ecpage=1&ppage=1&spage=1&tpage=1&location=33&filter%5Bkeyword%5D=ICS+311&filter%5Bexact_match%5D=1  |
 
 ---
 
@@ -71,13 +75,13 @@
      is right or wrong. "What are good dining halls?" is too vague.
      "What do students say about wait times at [dining hall name] during lunch?" is testable. -->
 
-| # | Question | Expected answer |
-|---|----------|-----------------|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
+| #   | Question                                                     | Expected answer                                                                                                                                                                                                                                                                                                                                     |
+| --- | ------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | Which ICS professors receive the highest student ratings?    | Henri Casanova                                                                                                                                                                                                                                                                                                                                      |
+| 2   | How does ICS 211 compare to ICS 111?                         | CS 111 focuses on fundamental programming concepts and is intended for beginners, while ICS 211 builds on those skills and introduces object-oriented programming and data structures. Most students consider ICS 211 more challenging because it requires larger programming projects and a deeper understanding of software design concepts.      |
+| 3   | What do students say about the workload in ICS 311?          | Students generally describe ICS 311 as one of the most challenging and time-consuming courses in the UH Mānoa Computer Science curriculum. Many report spending substantial time on mathematical proofs, algorithm analysis, quizzes, and homework assignments, and often recommend taking a lighter overall course load while enrolled in ICS 311. |
+| 4   | Which professors are considered good for beginners?          | Henri Casanova is frequently praised for clear explanations and genuine concern for student learning. One student described him as "one of the best ICS professors" and noted that he takes time to explain concepts thoroughly.                                                                                                                    |
+| 5   | What programming languages are commonly used in ICS courses? | Programming languages in UH ICS courses commonly include Java, Python, JavaScript, SQL, C, and C++. Introductory programming courses typically emphasize Java, while upper-level courses use different languages depending on the topic, such as web development, databases, systems programming, or artificial intelligence.                       |
 
 ---
 
