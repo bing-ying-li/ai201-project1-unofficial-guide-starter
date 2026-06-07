@@ -1,0 +1,491 @@
+ICS 101 - Digital Tools for the Information World
+Print (opens a new window)
+ICS 101 - Digital Tools for the Information World
+Credits: 3
+
+Fundamental information technology concepts and computing terminology, productivity software for problem solving, computer technology trends and impact on individuals and society. Emphasizes the utilization of operating systems and the production of professional documents, spreadsheets, etc.
+
+Honors Equivalent: ICS 101A 
+
+ICS 102 - Introduction to Data Science
+Print (opens a new window)
+ICS 102 - Introduction to Data Science
+Credits: 3
+
+Overview of the field of data science. Introduction to subjects such as data format, processing, visualization, and storage. Special emphasis on historical and wider context, and simple practical examples.
+
+Repeatable: 1 time
+Grade Option: A-F only.
+Cross-Listed: DATA 102
+
+ICS 103 - Introduction to Computer Science Principles
+Print (opens a new window)
+ICS 103 - Introduction to Computer Science Principles
+Credits: 3
+
+General course that provides a broad overview of computer science. Will address abstraction, data and information, algorithms, programming, the Internet and the global impact of computers.
+
+
+ICS 110 - (Alpha) Introduction to Computer Programming
+Print (opens a new window)
+ICS 110 - (Alpha) Introduction to Computer Programming
+Credits: 3
+
+Basic concepts needed to write computer programs. Simple program design and implementation using a specific programming language; (C) C; (D) through animations; (P) Python.
+
+Repeatable: Each alpha repeatable unlimited times, but credit earned one time only.
+Cross-Listed: P Cross-listed as DATA 110P 
+
+ICS 110C - Introduction to Computer Programming: C
+Print (opens a new window)
+ICS 110C - Introduction to Computer Programming: C
+Credits: 3
+
+Basic concepts needed to write computer programs. Simple program design and implementation using a specific programming language; (C) C; (D) through animations; (P) Python.
+
+Repeatable: Each alpha repeatable unlimited times, but credit earned one time only.
+Cross-Listed: P Cross-listed as DATA 110P 
+
+ICS 110D - Introduction to Computer Programming: through animations
+Print (opens a new window)
+ICS 110D - Introduction to Computer Programming: through animations
+Credits: 3
+
+Basic concepts needed to write computer programs. Simple program design and implementation using a specific programming language; (C) C; (D) through animations; (P) Python.
+
+Repeatable: Each alpha repeatable unlimited times, but credit earned one time only.
+Cross-Listed: P Cross-listed as DATA 110P 
+
+ICS 110P - Introduction to Computer Programming: Python
+Print (opens a new window)
+ICS 110P - Introduction to Computer Programming: Python
+Credits: 3
+
+Basic concepts needed to write computer programs. Simple program design and implementation using a specific programming language; (C) C; (D) through animations; (P) Python.
+
+Repeatable: Each alpha repeatable unlimited times, but credit earned one time only.
+Cross-Listed: P Cross-listed as DATA 110P 
+
+ICS 111 - Introduction to Computer Science I
+Print (opens a new window)
+ICS 111 - Introduction to Computer Science I
+Credits: 4
+
+Overview of the fundamentals of computer science emphasizing problem solving, algorithm development, implementation, and debugging/testing using an object-oriented programming language.
+
+Prerequisites: Recommended: computer experience.
+Honors Equivalent: ICS 111A 
+
+ICS 141 - Discrete Mathematics for Computer Science I
+Print (opens a new window)
+ICS 141 - Discrete Mathematics for Computer Science I
+Credits: 3
+
+Includes logic, sets, functions, matrices, algorithmic concepts, mathematical reasoning, recursion, counting techniques, and probability theory.
+
+Prerequisites: MATH 215 or MATH 241 or MATH 251A.
+General Education Designation(s): FQ
+
+ICS 210 - Information Systems in Society
+Print (opens a new window)
+ICS 210 - Information Systems in Society
+Credits: 3
+
+Lecture/ discussion critically explores sociopolitical dimensions of Information and Communication Technology (ICT), and the information professions.
+
+Prerequisites: departmental approval.
+Grade Option: A-F only.
+Frequency of Course (when offered): Once a year
+
+ICS 211 - Introduction to Computer Science II
+Print (opens a new window)
+ICS 211 - Introduction to Computer Science II
+Credits: 4
+
+(3 Lec, 1 3-hr. Lab) Reinforce and strengthen problem-solving skills using abstract data types and introduce software development practices. Emphasize the use of searching and sorting algorithms and their complexity, recursion, object-oriented programming, and data structures.
+
+Prerequisites: ICS 111 or consent.
+Honors Equivalent: ICS 211A 
+
+ICS 212 - Program Structure
+Print (opens a new window)
+ICS 212 - Program Structure
+Credits: 3
+
+Program organization paradigms, programming environments, implementation of a module from specifications, the C and C programming languages.
+
+Prerequisites: ICS 211 or consent.
+
+ICS 215 - Introduction to Scripting
+Print (opens a new window)
+ICS 215 - Introduction to Scripting
+Credits: 3
+
+Introduction to scripting languages for the integration of applications and systems. Scripting in operating systems, web pages, server-side application integration, regular expressions, and event handling for languages such as Perl, JavaScript, PHP, Python, shell scripting.
+
+Prerequisites: ICS 211 (or concurrent), or consent.
+Grade Option: A-F only.
+Frequency of Course (when offered): Once a year
+
+ICS 222 - Basic Concepts of Computer Science
+Print (opens a new window)
+ICS 222 - Basic Concepts of Computer Science
+Credits: 3
+
+What is the subject of computer science? What is a computer? Understand the basic models of computation and the concepts of computability, complexity, and network computation, and learn to use them in practice.
+
+Prerequisites: ICS 141 (or concurrent).
+Grade Option: A-F only.
+
+ICS 235 - Machine Learning Methods
+Print (opens a new window)
+ICS 235 - Machine Learning Methods
+Credits: 3
+
+Introduction to contemporary mathematical methods for empirical inference, data modeling, and machine learning.
+
+Prerequisites: MATH 241, MATH 203, MATH 215, or MATH 251A.
+Grade Option: A-F only.
+Frequency of Course (when offered): Fall only
+Cross-Listed: DATA 235
+
+ICS 241 - Discrete Mathematics for Computer Science II
+Print (opens a new window)
+ICS 241 - Discrete Mathematics for Computer Science II
+Credits: 3
+
+Includes program correctness, recurrence relations and their solutions, relations and their properties, divide and conquer relations, graph theory, trees and their applications, Boolean algebra, introduction to formal languages and automata theory.
+
+Prerequisites: ICS 141 or consent.
+
+ICS 290 - Computer Science Careers: An Exploration of the Specialties of Computer Science
+Print (opens a new window)
+ICS 290 - Computer Science Careers: An Exploration of the Specialties of Computer Science
+Credits: 1
+
+Exploration of the specialties of computer science. Meets every two week for 2.5 hours to explore specific areas in computer science.
+
+Grade Option: CR/NC only.
+Frequency of Course (when offered): Once a year
+
+ICS 296 - Sophomore Project
+Print (opens a new window)
+ICS 296 - Sophomore Project
+Credits: 1
+
+Part of a multi-year project-based courses sequence where students will work in teams on acquiring experience in a beginner-level design of a software project expected to be continued in ICS 396.
+
+Prerequisites: ICS 111
+Grade Option: A-F only.
+Major Restrictions: CS majors only.
+
+ICS 311 - Algorithms
+Print (opens a new window)
+ICS 311 - Algorithms
+Credits: 4
+
+(4 1-hr Lec) Design and correctness of algorithms, including divide-and-conquer, greedy and dynamic programming methods. Complexity analyses using recurrence relations, probabilistic methods, and NP-completeness. Applications to order statistics, disjoint sets, B-trees and balanced trees, graphs, network flows, and string matching.
+
+Prerequisites: ICS 211, and [(ICS 241 or ECE 362) and (MATH 216 or MATH 242 or MATH 252A)] or (MATH 301 and MATH 372); or consent.
+
+ICS 312 - Machine-Level and Systems Programming
+Print (opens a new window)
+ICS 312 - Machine-Level and Systems Programming
+Credits: 3
+
+Machine organization, machine instructions, addressing modes, assembler language, subroutine linkage, linking to higher-level languages, interface to operating systems, introduction to assemblers, loaders and compilers.
+
+Prerequisites: (ICS 212 or ECE 205) (or concurrent), (ICS 311 or ECE 367), and ICS 314; or consent.
+
+ICS 313 - Programming Language Theory
+Print (opens a new window)
+ICS 313 - Programming Language Theory
+Credits: 3
+
+Syntax, semantics, control structures, variable binding and scopes, data and control abstractions. Programming in functional (LISP) and logic (Prolog) programming styles.
+
+Prerequisites: (ICS 212 or ECE 205), (ICS 311 or ECE 367), and ICS 314; or consent.
+
+ICS 314 - Software Engineering I
+Print (opens a new window)
+ICS 314 - Software Engineering I
+Credits: 3
+
+Problem analysis and design, team-oriented development, quality assurance, configuration management, project planning. These topics are covered in the sequence 314-414.
+
+Prerequisites: (ICS 211 or ECE 205) and [ICS 241 or ECE 362 or (MATH 301 and MATH 372)]; or consent.
+
+ICS 321 - Database Systems I
+Print (opens a new window)
+ICS 321 - Database Systems I
+Credits: 3
+
+Introduction to relational database systems, data modeling, query processing, transaction processing, storage, and indexing.
+
+Prerequisites: (ICS 311 or ECE 367) and ICS 314, or consent.
+
+ICS 331 - Logic Design and Microprocessors
+Print (opens a new window)
+ICS 331 - Logic Design and Microprocessors
+Credits: 4
+
+(1 3-hr Lab) Basic machine architecture, microprocessors, bus organization, circuit elements, logic circuit analysis and design, microcomputer system design.
+
+Prerequisites: (ICS 212 or ECE 205), (ICS 311 or ECE 367), and ICS 314; or consent.
+
+ICS 332 - Operating Systems
+Print (opens a new window)
+ICS 332 - Operating Systems
+Credits: 3
+
+Operating system concepts and structure, processes and threads, CPU scheduling, memory management, scheduling, file systems, inter-process communication, virtualization, popular operating systems.
+
+Prerequisites: (ICS 311 or ECE 367) and ICS 314.
+Grade Option: A-F only.
+
+ICS 351 - Network Design and Management
+Print (opens a new window)
+ICS 351 - Network Design and Management
+Credits: 3
+
+Overview of the internet and its capabilities; introduction to HTTP, TCP/IP, ethernet, and wireless 802.11; routers, switches, and NAT; network and wireless security; practical experience in designing and implementing networks.
+
+Prerequisites: (ICS 311 or ECE 367) and ICS 314, or consent.
+Frequency of Course (when offered): Once a year.
+
+ICS 355 - Security and Trust I: Resource Protections
+Print (opens a new window)
+ICS 355 - Security and Trust I: Resource Protections
+Credits: 3
+
+Security and trust in computers, networks, and society. Security models. Access and authorization. Availability and Denial-of-Service. Trust processes and network interactions.
+
+Prerequisites: ICS 241 or (MATH 301 and MATH 372).
+
+ICS 361 - Foundations of Artificial Intelligence
+Print (opens a new window)
+ICS 361 - Foundations of Artificial Intelligence
+Credits: 3
+
+Introduction to the theory of Artificial Intelligence and the practical application of AI techniques. Students gain practical experience through programming assignments and projects.
+
+Prerequisites: (ICS 215 or ICS 212 or ECE 205) and (ICS 311 or ECE 367) and ICS 314; or consent.
+Grade Option: A-F only.
+
+ICS 369 - Computational Media Systems
+Print (opens a new window)
+ICS 369 - Computational Media Systems
+Credits: 3
+
+Intermediate object-oriented programming within the context of interactive media systems and video game development. Topics: classes, objects, inheritance, polymorphism, abstract classes, interfaces, event-driven programming, vectors, geometric primitives, game mechanics, and relevant design patterns.
+
+Prerequisites: Any ICS 110 (Alpha) or ICS 111 or ECE 160 or instructor approval.
+Grade Option: A-F only.
+Major Restrictions: EE, CENG, ICS, CM, CSCI, THEA, DNCE, THDN majors only.
+Cross-Listed: ECE 369 
+
+ICS 390 - Computing Ethics for Lab Assistants
+Print (opens a new window)
+ICS 390 - Computing Ethics for Lab Assistants
+Credits: 3
+
+Lecture/discussion/internship on ethical issues and instructional techniques for students assisting computer sciences classes in various settings. The class uses multiple significant writing and oral presentation activities to help students learn course content.
+
+Prerequisites: consent.
+
+ICS 396 - Junior Project
+Print (opens a new window)
+ICS 396 - Junior Project
+Credits: 2
+
+Part of a multi-year project-based courses sequence where students will work in teams on acquiring experience in intermediate-level design, implementation and presentation of a software project that may have been initiated in ICS 296.
+
+Prerequisites: ICS 314 or concurrent.
+Grade Option: A-F only.
+Major Restrictions: CS majors only.
+
+ICS 414 - Software Engineering II
+Print (opens a new window)
+ICS 414 - Software Engineering II
+Credits: 3
+
+Continuation of ICS 314. Project management, quality, and productivity control, testing and validation, team management. Team-oriented software-implementation project.
+
+Prerequisites: (ICS 311 or ECE 367) and ICS 314.
+
+ICS 415 - Introduction to Programming for the Web
+Print (opens a new window)
+ICS 415 - Introduction to Programming for the Web
+Credits: 3
+
+Introduction to emerging technologies for construction of World Wide Web (WWW)-based software. Covers programming and scripting languages used for the creation of WWW sites and client-server programming. Students will complete a medium-sized software project that uses languages and concepts discussed in class.
+
+Prerequisites: (ICS 311 or ECE 367) and ICS 314, or consent.
+
+ICS 419 - The Science, Psychology and Philosophy of Systems Design
+Print (opens a new window)
+ICS 419 - The Science, Psychology and Philosophy of Systems Design
+Credits: 3
+
+Scientific, psychological and philosophical bases of systems design, including a survey of human-factors and ergonomic standards; the nature of innovation and creativity as it relates to systems design. Web-enhanced course.
+
+Prerequisites: (ICS 311 or ECE 367) and ICS 314, or consent.
+Frequency of Course (when offered): Once a year.
+
+ICS 421 - Database Systems II
+Print (opens a new window)
+ICS 421 - Database Systems II
+Credits: 3
+
+Very large database systems, data integration, data warehousing, designing big data systems, parallel query processing, distributed transactions.
+
+Prerequisites: ICS 321 or consent.
+
+ICS 422 - Network Science Methodology
+Print (opens a new window)
+ICS 422 - Network Science Methodology
+Credits: 3
+
+Computational and statistical methods for analyzing network models of social, technological, information, and biological networks. Introduction to relevant data analytics and graph analysis software packages.
+
+Prerequisites: (ICS 311 or ECE 367) or consent.
+Cross-Listed: DATA 422 
+
+ICS 423 - Data Security and Cryptography I
+Print (opens a new window)
+ICS 423 - Data Security and Cryptography I
+Credits: 3
+
+Secret communication and confidentiality data storage. Elements of cryptography and cryptanalysis. Classical ciphers. Symmetric key cryptography. Public key cryptography. Data security in cyber space.
+
+Prerequisites: ICS 222 and ICS 355.
+
+ICS 424 - Application Frameworks
+Print (opens a new window)
+ICS 424 - Application Frameworks
+Credits: 3
+
+Experience producing applications with at least two different applications frameworks.
+
+Prerequisites: (ICS 311 or ECE 367) and ICS 314, or consent.
+Grade Option: A-F only.
+
+ICS 425 - Computer Security and Ethics
+Print (opens a new window)
+ICS 425 - Computer Security and Ethics
+Credits: 3
+
+Theoretical results, security policy, encryption, key management, digital signatures, certificates, passwords. Ethics: privacy, computer crime, professional ethics. Effects of the computer revolution on society.
+
+Prerequisites: ICS 355 or consent.
+Grade Option: A-F only.
+Frequency of Course (when offered): Once a year
+
+ICS 426 - Computer System Security
+Print (opens a new window)
+ICS 426 - Computer System Security
+Credits: 3
+
+Information flow, confinement, information assurance, malicious programs, vulnerability analysis, network security, writing secure programs.
+
+Prerequisites: ICS 355 or consent.
+Grade Option: A-F only.
+Frequency of Course (when offered): Once a year
+
+ICS 427 - Programming Approaches to Software Quality Assurance
+Print (opens a new window)
+ICS 427 - Programming Approaches to Software Quality Assurance
+Credits: 3
+
+Examination of best practices associated with developing and supporting software applications with respect to potential security risks. Will augment software engineering practices learned in other courses with the basic principles of cybersecurity.
+
+Prerequisites: ICS 314 or consent.
+
+ICS 428 - Digital Forensics
+Print (opens a new window)
+ICS 428 - Digital Forensics
+Credits: 3
+
+Provides students with the knowledge of underlying principles and skills to identify, preserve, and extract electronic evidence for further analysis.
+
+Prerequisites: ICS 355 or consent.
+
+ICS 431 - Computer Architecture
+Print (opens a new window)
+ICS 431 - Computer Architecture
+Credits: 3
+
+Memory management, control flow, interrupt mechanisms, multiprocessor systems, special-purpose devices.
+
+Prerequisites: ICS 331 or ECE 361/ECE 361L.
+
+ICS 432 - Concurrent and High-Performance Programming
+Print (opens a new window)
+ICS 432 - Concurrent and High-Performance Programming
+Credits: 3
+
+Principles of concurrent and high performance programming. Multi-threading in C and Java for shared-memory programming. Distributed memory programming with Java. Introduction to cluster computing.
+
+Prerequisites: (ICS 212 or ECE 205) and ICS 332 and (ICS 311 or ECE 367) and ICS 314; or consent.
+Grade Option: A-F only.
+Frequency of Course (when offered): Once a year.
+
+ICS 434 - Data Science Fundamentals
+Print (opens a new window)
+ICS 434 - Data Science Fundamentals
+Credits: 3
+
+Introduction to critical statistical and probabilistic concepts that underlie data science as well as tools that play a central role in the daily work of a data scientist.
+
+Prerequisites: ICS 211 or consent.
+Grade Option: A-F only.
+Cross-Listed: DATA 434
+
+ICS 435 - Machine Learning Fundamentals
+Print (opens a new window)
+ICS 435 - Machine Learning Fundamentals
+Credits: 3
+
+Introduction to machine learning concepts with a focus on relevant ideas from computational neuroscience. Information processing and learning in the nervous system. Neural networks. Supervised and unsupervised learning. Basics of statistical learning theory.
+
+Prerequisites: ICS 235, or consent. Recommended: MATH 307.
+Frequency of Course (when offered): Once a year
+Cross-Listed: DATA 435
+
+ICS 438 - Big Data Analytics
+Print (opens a new window)
+ICS 438 - Big Data Analytics
+Credits: 3
+
+Concepts, tools, and techniques for analyzing and mining massive data sets. Data cleaning and pre-processing. Data analysis and mining techniques. Big Data platforms. Big Data visualization.
+
+Prerequisites: ICS 321
+Cross-Listed: DATA 438
+
+ICS 441 - Theory of Computation
+Print (opens a new window)
+ICS 441 - Theory of Computation
+Credits: 3
+
+Grammars, sequential machines, equivalence, minimalization, analysis and synthesis, regular expressions, computability, unsolvability, Gödel’s theorem, Turing machines.
+
+Prerequisites: (ICS 311 or ECE 367) and ICS 314, or consent.
+
+ICS 442 - Analytical Models and Methods
+Print (opens a new window)
+ICS 442 - Analytical Models and Methods
+Credits: 3
+
+Applications of mathematical methods in computer science with emphasis on discrete mathematics, numerical computation, algebraic models, operations research.
+
+Prerequisites: (ICS 311 or ECE 367) and ICS 314, or consent.
+
+ICS 443 - Parallel Algorithms
+Print (opens a new window)
+ICS 443 - Parallel Algorithms
+Credits: 3
+
+Introduction to parallel models of computation and design and analysis of parallel algorithms.
+
+Prerequisites: (ICS 311 or ECE 367) and ICS 314.
+Frequency of Course (when offered): Fall only.

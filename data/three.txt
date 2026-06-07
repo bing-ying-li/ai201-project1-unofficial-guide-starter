@@ -1,0 +1,196 @@
+The combined BS/MS degree pathway is intended to allow students the opportunity to complete both a Bachelor of Science and Master of Science in Computer Science in 5 years. To be admitted into the program, students must submit the Graduate Admissions Application and fee as well as all required program admission materials by the deadline. Applications should be submitted in the spring of their junior year (6th semester), with admission to the BAM program commencing in the fall of their senior year (7th semester).
+
+Requirements
+Students pursuing this degree should meet the degree requirements for regular Master of Science in Computer Science.
+
+There are three pathways students can take depending on their BS degree option. Each pathway differs in the set of courses that can be double-counted for both the bachelor’s and master’s degree.
+
+Gateway course:
+With a grade B or higher. The minimum grade requirement is B (not B-) or higher.
+
+ICS 311 - Algorithms Credits: 4
+OR  ECE 367 - Computer Data Structures and Algorithms Credits: 3
+BS and MS in Computer Science
+The following courses can be double-counted in BS in Computer Science and MS in Computer Science:
+
+ICS 414 - Software Engineering II Credits: 3
+OR  ICS 435 - Machine Learning Fundamentals Credits: 3
+OR  ICS 451 - Data Networks Credits: 3
+OR  ICS 466 - Design for Mobile Devices Credits: 3
+ 
+
+and up to two of the following:
+
+ICS 613 - Advanced Software Engineering Credits: 3
+ICS 621 - Analysis of Algorithms Credits: 3
+ICS 632 - Principles of High Performance Computing Credits: 3
+ICS 664 - Human-Computer Interaction II Credits: 3
+ICS 691 - (Alpha) Topics in Computer Science Credits: 3
+5-Year Plan
+This is a sample academic plan. Students should meet with an academic advisor prior to registration to formulate their own plan.
+
+Year 1
+Fall
+ICS 111 - Introduction to Computer Science I Credits: 4
+ 
+
+MATH 215 - Applied Calculus I Credits: 4 (FQ)
+OR  MATH 241 - Calculus I Credits: 4 (FQ)
+OR  MATH 251A - Accelerated Calculus I Credits: 4 (FQ)
+ 
+
+FG (A/B/C) Credits: 3
+FW
+Credits 14
+Spring
+ICS 141 - Discrete Mathematics for Computer Science I Credits: 3
+ICS 211 - Introduction to Computer Science II Credits: 4
+ 
+
+MATH 242 - Calculus II Credits: 4
+OR  MATH 252A - Accelerated Calculus II Credits: 4
+ 
+
+FG (A/B/C) Credits: 3
+DS Credits: 3
+Credits 17
+Total Credits 31
+Year 2
+Fall
+ICS 212 - Program Structure Credits: 3
+ICS 241 - Discrete Mathematics for Computer Science II Credits: 3
+ 
+
+PHYS 151 - College Physics I Credits: 3
+OR  PHYS 170 - General Physics I Credits: 4
+ 
+
+PHYS 151L - College Physics Lab I Credits: 1
+OR  PHYS 170L - General Physics I Lab Credits: 1
+ 
+
+DA/DH/DL Credits: 3
+HSL 101 Credits: 3
+Credits 16
+Spring
+ICS 311 - Algorithms Credits: 4 (gateway) (min B)
+OR  ECE 367 - Computer Data Structures and Algorithms Credits: 3 (gateway) (min B)
+ 
+
+ICS 314 - Software Engineering I Credits: 3
+ 
+
+PHYS 152 - College Physics II Credits: 3
+OR  PHYS 272 - General Physics II Credits: 3
+ 
+
+PHYS 152L - College Physics Lab II Credits: 1
+OR  PHYS 272L - General Physics II Lab Credits: 1
+ 
+
+HSL 102 Credits: 3
+Credits 14
+Total Credits 61
+Year 3
+Fall
+ICS 321 - Database Systems I Credits: 3
+ 
+
+ICS 312 - Machine-Level and Systems Programming Credits: 3
+OR  ICS 331 - Logic Design and Microprocessors Credits: 4
+OR  ICS 313 - Programming Language Theory Credits: 3
+OR  ICS 361 - Foundations of Artificial Intelligence Credits: 3
+OR  ICS 351 - Network Design and Management Credits: 3
+OR  ICS 451 - Data Networks Credits: 3
+ 
+
+MATH 307 - Linear Algebra and Differential Equations Credits: 3
+OR  MATH 372 - Elementary Probability and Statistics Credits: 3
+ 
+
+DS Credits: 3
+HSL 201 Credits: 3
+Credits 15
+Spring
+Apply for Graduate Program
+
+ICS 355 - Security and Trust I: Resource Protections Credits: 3
+ 
+
+ICS 312 - Machine-Level and Systems Programming Credits: 3
+OR  ICS 331 - Logic Design and Microprocessors Credits: 4
+ 
+
+DA/DH/DL 300+ Credits: 3
+DB Credits: 3
+HSL 202 Credits: 3
+Credits 15
+Total Credits 91
+Year 4
+Fall
+ICS 332 - Operating Systems Credits: 3
+ 
+
+ICS 414 - Software Engineering II Credits: 3 (min. B)
+OR  ICS 435 - Machine Learning Fundamentals Credits: 3 (min. B)
+OR  ICS 451 - Data Networks Credits: 3 (min. B)
+OR  ICS 466 - Design for Mobile Devices Credits: 3 (min. B)
+ 
+
+ICS 690 - Seminar in ICS Credits: 1
+CHEM 161 - General Chemistry I Credits: 3
+CHEM 161L - General Chemistry Lab I Credits: 1
+Elective 300+ Credits: 3
+Credits 14
+Spring
+BS Degree Awarded
+
+ICS 496 - Capstone Project Credits: 3
+ 
+
+ICS 613 - Advanced Software Engineering Credits: 3 (min B)
+OR  ICS 621 - Analysis of Algorithms Credits: 3 (min. B)
+OR  ICS 632 - Principles of High Performance Computing Credits: 3 (min B)
+OR  ICS 664 - Human-Computer Interaction II Credits: 3 (min B)
+OR  ICS 691 - (Alpha) Topics in Computer Science Credits: 3 (min B)
+ 
+
+ICS 613 - Advanced Software Engineering Credits: 3 (min B)
+OR ICS 621 - Analysis of Algorithms Credits: 3 (min B)
+OR ICS 632 - Principles of High Performance Computing Credits: 3 (min B) 
+OR ICS 664 - Human-Computer Interaction II Credits: 3 (min B)
+OR ICS 691 - (Alpha) Topics in Computer Science Credits: 3 (min B)
+ 
+
+ICS Elective 400+ Credits: 3
+CHEM 162 - General Chemistry II Credits: 3
+CHEM 162L - General Chemistry Lab II Credits: 1
+Credits 16
+Total Credits 121
+Grad Year 2
+Fall
+ICS 699 - Directed Reading/Research Credits: 1-12
+OR  ICS 700 - Thesis Research Credits: 1-12
+ 
+
+ICS 600+ Core Credits: 3
+ICS 600+ Core Credits: 3
+ICS Elective 600+ Credits: 3
+Credits 12
+Spring
+ICS 699 - Directed Reading/Research Credits: 1-12
+OR  ICS 700 - Thesis Research Credits: 1-12
+ 
+
+ICS 600+ Core Credits: 3
+ICS Elective 600+ Credits: 3
+Credits 9
+Total Credits 142
+Notes:
+
+Students must incorporate all focus requirements into this plan. Focus designations (i.e., W, E, O, H) are CRN specific & semester specific.
+Minimum 45 upper division (300+ course) credits are required. Students must take placements exams to register for CHEM 161 and MATH 215 or MATH 241.
+To enroll in MATH 242, students must meet the grade of B or better in MATH 215. To enroll in MATH 252A, students must take MATH 241 or MATH 251A and meet a grade of B in MATH 241. Substitution allowed: (MATH 301 and MATH 372) can be substituted for (ICS 141 and ICS 241). In that case, student must take MATH 307. Minimum grade for Gateway course ICS 311 or ECE 367 is B or better (not B-). Plan A students register for ICS 700; Plan B students register for ICS 699.
+Minimum grade for a course that can double-count for the BS and MS is B or better (not B-): (ICS 414, ICS 435, ICS 451 or ICS 466), and up to two of the following: ICS 613 or ICS 621 or ICS 632 or ICS 664 or ICS 691.
+
+*ICS 690 (1 credit) taken as excess credit from the BS degree. Need to petition to have the credit counted toward the MS degree. 31 600-level credits required. If BAM students cannot take ICS 690 in the last year of the bachelor’s degree they will need to take it in the Fall of the 5th year.

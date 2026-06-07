@@ -1,0 +1,159 @@
+Mahdi Belcaid
+Associate Research Professor
+Department Associate Chair
+POST 306B
+808-956-6049
+mahdi@hawaii.edu
+Research interests: Data science education, probabilistic programming in genomics, big data
+approximation.
+ACMDL dblp PubMed Scopus
+Education: Ph.D. 2011, University of Hawai’i at Mānoa; M.S. Université du Québec à Montréal
+Edo Biagioni
+Associate Professor
+POST 305F
+808-956-3891
+esb@hawaii.edu
+Research interests: Wireless networking, particularly wireless ad-hoc and peer-to-peer
+networks, verification of systems programs.
+ACMDL dblp Scholar Scopus
+Education: Ph.D. 1991, University of North Carolina, Chapel Hill; Informatik Diplom 1985,
+Eidgenössische Technische Hochschule; B.S. 1982, MIT
+Kim Binsted
+Professor
+POST 303D
+808-956-6107
+binsted@hawaii.edu
+Research interests: Artificial intelligence, human-computer interfaces, and long-duration
+human space exploration.
+ACMDL dblp Scholar Scopus
+Education: Ph.D. 1996, University of Edinburgh; M.S. 2015, Planetary Geology, University of
+Hawai’i at Mānoa; B.S. 1991, McGill
+Henri Casanova
+Professor
+Undergraduate Committee Chair
+POST 310C
+808-956-2649
+henric@hawaii.edu
+CoRG – Concurrency Research Group
+Research interests: High performance computing, parallel and distributed computing, parallel
+application scheduling, simulation of distributed applications and platforms.
+ACMDL dblp Scholar Scopus
+Education: Ph.D. 1998, University of Tennessee, Knoxville; M.S. 1994, National Polytechnic
+Institute of Toulouse; B.S. 1993, Ecole Nationale Supérieure d’Electronique, d’Electrotechnique,
+d’Informatique et d’Hydraulique de Toulouse
+Huaijin (George) Chen
+Assistant Professor
+huaijin@hawaii.edu
+Computational Imaging and Robotic Perception (CIRP) Lab
+Research interests: Computational imaging/photography, computer vision, robotic perception.
+ACMD dblp Scholar Scopus ORCID
+Education: Ph.D. 2019, Electrical and Computer Engineering, Rice University; B.S. 2013, Imaging
+Science, Rochester Institute of Technology
+David Conner
+Instructor
+dbconner@hawaii.edu
+Research interests: Digital transformation, information systems, artificial intelligence,
+cybersecurity, programming languages, computer graphics, data visualization, user interface
+design, video game design, animation, educational design.
+ACMDL dblp ORCID Scholar ResearchGate
+Education: M.S. 1996, Computer Science, Brown University; B.S. 1991, Mathematics and
+Computer Science, Brown University; B.A. Visual Art 1991, Brown University.
+Professional experiences: Chief Information Officer, Hawaii State Department of Education;
+Chief Information Security Officer, Estée Lauder Companies; Global Head of Vulnerability
+Management, Morgan Stanley.
+Martha Crosby
+Professor
+POST 305D
+808-956-3493
+crosby@hawaii.edu
+Research interests: Human computer interaction, artificial intelligence, cognitive science,
+computer science education, information science education, authentication, cognitive robotics,
+collaborative learning, HCI theory, concepts and models, integrated and visual development
+environments, interaction design theory, concepts and paradigms, model curricula,
+philosophical/theoretical foundations of artificial intelligence, user-centered design, virtual
+reality.
+ACMDL dblp Scopus
+Education: Ph.D. 1986, University of Hawai’i at Mānoa; M.S. 1975, University of Hawai’i at
+Mānoa; B.S. 1959, Colorado State University
+Richard Halverson
+Instructor
+richardh@hawaii.edu
+Kaveh Karden
+Instructor
+kaveh@hawaii.edu
+Research interests: Computer graphics, genetic algorithms and programming.
+Education: M.S. 2010, Computer Science, University of Hawai’i at Mānoa; B.S. 1985,
+Mathematics, Massachusetts Institute of Technology.
+Professional experience: Software Engineer, Softimage; Software Lead, Square USA; Instructor,
+ACM University of Hawaii; Senior Software Developer, Weta Digital.
+Nurit Kirshenbaum
+Assistant Professor
+nuritk@hawaii.edu
+Research interests: Human-centered design, tangible user interfaces, cyberinfrastructure,
+shape-changing interfaces, learning technologies, games, interactive media, authoring and
+visualization tools.
+ACMDL dblp Scholar Scopus ORCID
+Education: Ph.D. 202, University of Hawai‘i at Mānoa; M.S. 2016, University of Hawai’i at Mānoa;
+B.S. 2001, Technion – Israel Institute of Technology
+Jason Leigh
+Professor
+Keller 102A
+808-956-9164
+leighj@hawaii.edu
+LAVA – Laboratory for Advanced Visualization and Applications
+HI-DSI – Hawai‘i Data Science Institute
+Research interests: Big data visualization, virtual reality, high performance networking, video
+game design.
+ACMDL dblp Scholar Scopus
+Education: Ph.D. 1998, University of Illinois, Chicago; M.S. 1990, Wayne State University; B.S.
+1988, University of Utah
+Depeng Li
+Associate Professor
+POST 314D
+808-956-3973
+depengli@hawaii.edu
+Research interests: Security and privacy, internet of things, applied cryptography, operating
+system development, network security.
+ACMDL dblp Scopus
+Education: Ph.D. 2010, Dalhousie University; M.S., Shandong University; B.S., Shandong
+University
+Mehdi Tarrit Mirakhorli
+Professor
+POST 307B
+mehdi23@hawaii.edu
+Research interests: Software engineering, cybersecurity.
+ACMDL dblp Scholar ORCID
+Education: Ph.D. 2014, DePaul University; M.S. 2008, National University – Shahid Beheshti,
+Tehran, Iran; BS. 2006, Teacher Training University of Iran, Tehran
+Carleton Moore
+Assistant Professor
+POST 314F
+808-956-6920
+cmoore@hawaii.edu
+Research interests: Software engineering, collaborative software development.
+ACMDL dblp Scopus
+Education: Ph.D. 2000, University of Hawai’i, Mānoa; M.S. 1995, University of Hawai’i, Mānoa;
+B.S. 1988, University of Colorado, Boulder
+Ravi Narayan
+Instructor
+POST 314A
+rnarayan@hawaii.edu
+Dusko Pavlovic
+Professor
+POST 311B
+808-956-9639
+dusko@hawaii.edu
+ASECO – Adaptive Security and Economics Lab
+Research interests: Security, network computation and economics, quantum computation,
+software, semantics, categories.
+ACMDL dblp Scholar ORCID
+Education: Ph.D. 1990, Utrecht University
+Anthony Peruma
+Assistant Professor
+POST 310B
+peruma@hawaii.edu
+Research interests: Program comprehension, software refactoring, software maintenance &
+evolution.
+ACMDL dblp Scholar Scopus ORCID
+Education: Ph.D. 2022, Rochester Institute of Technology; M.S. Rochester Institute of
+Technology; B.S. Bangalore University, India
