@@ -23,8 +23,8 @@ COLLECTION_NAME = "uhm_cs_professor_reviews"
 EMBEDDING_MODEL_NAME = "all-MiniLM-L6-v2"
 
 TOP_K = 5
-GROQ_MODEL = "llama-3.1-8b-instant"
-
+GROQ_MODEL = "llama-3.3-70b-versatile"
+# GROQ_MODEL = "llama-3.1-8b-instant"
 # ======================
 # INIT MODELS
 # ======================
